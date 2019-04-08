@@ -33,10 +33,10 @@
         }],
         [ 'OS=="win"', {
             "libraries" : [
-              "../lib/ta-lib/lib/ta_abstract_csr.lib",
-              "../lib/ta-lib/lib/ta_common_csr.lib",
-              "../lib/ta-lib/lib/ta_func_csr.lib",
-              "../lib/ta-lib/lib/ta_libc_csr.lib"
+              "../../talib/src/lib/lib/ta_abstract_csr.lib",
+              "../../talib/src/lib/lib/ta_common_csr.lib",
+              "../../talib/src/lib/lib/ta_func_csr.lib",
+              "../../talib/src/lib/lib/ta_libc_csr.lib"
             ]
         }],
       ],
